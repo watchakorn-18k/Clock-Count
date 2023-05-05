@@ -2,7 +2,11 @@
 
 mini clock count easy to use
 
-![](https://i.imgur.com/JPYGur8.png)
+<div align="center">
+
+![](https://cdn.discordapp.com/attachments/585069498986397707/1104040351876001923/gamedfdsf.gif)
+
+</div>
 
 ## Getting Start Project
 
